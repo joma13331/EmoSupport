@@ -119,10 +119,6 @@ elif selected_option == "Ask Questions":
     st.write("Enter the number of relevant text to consider for the answer.")
     num_relevant_text = st.number_input("Enter the number of relevant text", min_value=1, max_value=20, value=5, step=1)
 
-    # An input box to enter the number of relevant text to consider for the answer
-    st.write("You can enter the number of relevant text to consider for the answer here. The default value is 5.")
-    num_relevant_text = st.number_input("Enter the number of relevant text to consider for the answer", value=5, min_value=1, max_value=10, step=1)
-
     # An input box to enter the minimum score to consider for the answer
     st.write("Enter the minimum score to consider for the answer.")
     min_score = st.number_input("Enter the minimum score", min_value=0.0, max_value=1.0, value=0.1, step=0.1)

@@ -9,7 +9,7 @@ The interaction with Emosupport is done in a conversational manner with the bot 
 
 # Installation
 1. Clone the repository
-2. Create a text file names openai_ai_key.txt in the root directory of the project. This file should contain your OpenAI API key.
+2. Create a text file named openai_ai_key.txt in the root directory of the project. This file should contain your OpenAI API key.
 3. Create a virtual environment and install the requirements mentioned in requirements.txt.
 4. Run the following command from the root directory of the project to start the streamlit app:
 ```
