@@ -35,5 +35,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 7. [Conversation buffer memory](https://python.langchain.com/docs/modules/memory/how_to/buffer)
 8. [Conversational Retrieval QA](https://python.langchain.com/docs/modules/chains/popular/chat_vector_db)
 9. [Whisper](https://pypi.org/project/openai-whisper/)
-10 [Coqui TTS](https://pypi.org/project/TTS/)
+10. [Coqui TTS](https://pypi.org/project/TTS/)
 
