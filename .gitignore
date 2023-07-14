@@ -1,3 +1,5 @@
 openai_api_key.txt
 *.egg-info
-Articles_to_upload
+Docs_to_upload
+test.py
+Data
